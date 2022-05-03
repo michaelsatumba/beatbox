@@ -21,12 +21,7 @@
 
 Users should be able to:
 
-- Display weather.
-- Display weather tomorrow.
-- Display weather the next day after tomorrow.
-- Search for city and display weather.
-- Display 7 day forecast.
-- Search for multiple cities.
+- Play sounds when clicked.
 
 ### Screenshot
 
