@@ -39,7 +39,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
-- Live Site URL: [Live Site](https://weather-any-storm.vercel.app/)
+- Live Site URL: [Live Site](https://beatbox-six.vercel.app/)
 
 ## My process
 
